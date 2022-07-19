@@ -1,7 +1,11 @@
 ### Hi, I'm Aviv 👋
+
 🌱 I’m Full Stack Developer | 3rd-year student
+
 📫 Mail: avivelded@gmail.com
+
 📫 Linkedin: https://www.linkedin.com/in/aviv-eldad/
+
 <!--
 **AvivEldad/AvivEldad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
