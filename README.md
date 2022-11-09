@@ -1,6 +1,6 @@
 ### Hi, I'm Aviv 👋
 
-🌱 I’m Full Stack Developer | 3rd-year student
+🌱 I’m Full Stack Developer
 
 📫 Mail: avivelded@gmail.com
 
