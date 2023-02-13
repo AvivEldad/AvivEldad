@@ -1,6 +1,6 @@
 ### Hi, I'm Aviv 👋
 
-🌱 I’m Full Stack Developer
+🌱 I’m Software Developer
 
 📫 Mail: avivelded@gmail.com
 
