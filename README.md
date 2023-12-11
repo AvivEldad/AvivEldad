@@ -1,6 +1,6 @@
 ### Hi, I'm Aviv 👋
 
-🌱 I’m Software Developer
+🌱 I’m Backend Developer
 
 📫 Mail: avivelded@gmail.com
 
